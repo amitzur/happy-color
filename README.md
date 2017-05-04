@@ -28,5 +28,9 @@ Happy Color will help you see the visual comparison. It's just 2 big juxtaposed 
 ## Thank yous
 Thanks [Brian Grinstead](https://github.com/bgrins) for creating [TinyColor](https://github.com/bgrins/TinyColor) and making this so much easier.
 
+## Did you know?
+
+The initial color values make for a tasty dinner! 
+
 ## License
 MIT (https://opensource.org/licenses/mit-license.php)
