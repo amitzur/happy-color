@@ -1,0 +1,14 @@
+.split-container {
+    display: flex;
+    height: 100%;
+}
+
+@media (max-width:768px) {
+    .split-container {
+        flex-direction: column;
+    }
+}
+
+.split-container-item {
+    flex: 1 1 0px;
+}
