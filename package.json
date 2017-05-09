@@ -8,8 +8,12 @@
     "tinycolor2": "^1.4.1"
   },
   "devDependencies": {
+    "enzyme": "^2.8.2",
     "gh-pages": "^0.12.0",
-    "react-scripts": "0.9.5"
+    "jest-localstorage-mock": "^1.1.1",
+    "react-addons-test-utils": "^15.5.1",
+    "react-scripts": "0.9.5",
+    "react-test-renderer": "^15.5.4"
   },
   "scripts": {
     "start": "react-scripts start",
